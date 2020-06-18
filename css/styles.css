@@ -231,4 +231,8 @@
     .price-heading-text{
       font-size:4.5vw;
     }
+     em{
+       font-size: 2.2vw; 
+    }
+    
   }
